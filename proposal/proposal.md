@@ -9,6 +9,7 @@ Key features of the SMILE system include:
 Separation between the ice pack and the vaccine chamber, ensuring vaccines are protected from freezing.
 
 The problem 
+
 The majority of current vaccine coolers use a 4 ice pack design, providing uniform cooling of the vaccines. In the SMILE, a single ice pack is used to reduce human error, but there is an issue of asymmetrical cooling associated with this. Thermal tests have shown that the top vaccine chambers are hotter than the bottom chambers. Given the vaccines need to stay within such a tight temperature range, if we can investigate what is causing this asymmetry and prototype potential solutions, we can extend the cool life of the vaccines. In the original SMILE, extra insulation was added at the top leading to an asymmetric centre, however, the SMILE Go doesn’t have this.
 
 
