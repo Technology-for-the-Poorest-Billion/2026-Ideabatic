@@ -2,7 +2,6 @@
 
 
 ## The people
-
 Our group is made up of Karen, Kerry and Kavita:
 
 Karen (mechanical/electrical engineer)
@@ -13,7 +12,7 @@ Kerry (mechanical/aerospace engineer)
 - Strengths: Thermal/material knowledge, Mechanical design
 - Weaknesses: Computational modelling, Electronics
 
-Kavita (mechanical/electrical
+Kavita (mechanical/electrical)
 - Strengths: Electronics, 3D printing experience
 - Weaknesses: Computational modelling
 
@@ -29,7 +28,7 @@ Kavita (mechanical/electrical
 
 
 ## The timeline
-
+![Timeline](timeline.png)
 
 
 ## The assessment of the risks and safety
