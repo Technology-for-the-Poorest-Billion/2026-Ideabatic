@@ -6,16 +6,16 @@
 Our group is made up of Karen, Kerry and Kavita:
 
 Karen (mechanical/electrical engineer)
-Strengths: 3D modelling,3D printing, Drawing
-Weaknesses: Thermal modelling, Hardware
+- Strengths: 3D modelling,3D printing, Drawing
+- Weaknesses: Thermal modelling, Hardware
 
 Kerry (mechanical/aerospace engineer)
-Strengths: Thermal/material knowledge, Mechanical design
-Weaknesses: Computational modelling, Electronics
+- Strengths: Thermal/material knowledge, Mechanical design
+- Weaknesses: Computational modelling, Electronics
 
 Kavita (mechanical/electrical
-Strengths: Electronics, 3D printing experience
-Weaknesses: Computational modelling
+- Strengths: Electronics, 3D printing experience
+- Weaknesses: Computational modelling
 
 ## The resources needed
 | Resource | Cost | Source |
