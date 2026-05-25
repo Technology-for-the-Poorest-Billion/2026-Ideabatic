@@ -34,32 +34,32 @@ Kavita (mechanical/electrical)
 ### Tooling Risks
 #### Effect
 * Burns from hot glue guns
-* soldering burns, breathing in toxic fumes
-* fire from laser cutter
-* cuts and incidents from hand tools
+* Soldering burns, breathing in toxic fumes
+* Fire from laser cutter
+* Cuts and incidents from hand tools
 #### Mitigation
-* acquire appropriate training
-* make sure fume hood on laser cutter is activated
+* Acquire appropriate training
+* Make sure fume hood on laser cutter is activated
 * Keep hands and skin away from hot surfaces
 
 ### Electrical Testing Risks
 #### Effect
-* water contact with electrical components
-* overheating of Arduino
+* Water contact with electrical components
+* Overheating of Arduino
 #### Mitigation
-* keep electronics away from water
-* keep surfaces dry
-* keep voltages and currents within working range
+* Keep electronics away from water
+* Keep surfaces dry
+* Keep voltages and currents within working range
 
 ### 3D Printer Risks
 #### Effect
-* cuts from sharp components from 3D print
-* high temperatures on 3D printer nozzle
-* fingers or clothes getting caught in moving parts
-* toxic fumes from print material
+* Cuts from sharp components from 3D print
+* High temperatures on 3D printer nozzle
+* Fingers or clothes getting caught in moving parts
+* Toxic fumes from print material
 #### Mitigation
-* maintain distance from 3D printer as it is operating
-* use non-hazardous materials in 3D printer
+* Maintain distance from 3D printer as it is operating
+* Use non-hazardous materials in 3D printer
 
 ## Contingency plans
 Extra Time:
