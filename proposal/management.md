@@ -1,6 +1,5 @@
 # Project management plan
 
-
 ## The people
 Our group is made up of Karen, Kerry and Kavita:
 
@@ -63,7 +62,11 @@ Kavita (mechanical/electrical)
 * use non-hazardous materials in 3D printer
 
 ## Contingency plans
-- Extra Time: Contingency days at end to account for testing taking longer than expected
-Staged testing approach: test out concepts before we put significant time into designing
-- Other ideas: Some alternatives areas to look at if our initial testing suggests the concept is not viable e.g. effect of underfilling ice bottle (does this exacerbate asymmetric cooling), insulation methods & materials
-- Reduce risks: Complete risk assessments
+Extra Time:
+- Contingency days at end to account for testing taking longer than expected
+Staged testing approach:
+- Test out concepts before we put significant time into designing
+Other ideas:
+- Some alternatives areas to look at if our initial testing suggests the concept is not viable e.g. effect of underfilling ice bottle (does this exacerbate asymmetric cooling), insulation methods & materials
+Reduce risks:
+- Complete risk assessments
