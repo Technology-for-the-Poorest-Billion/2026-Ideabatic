@@ -45,7 +45,7 @@ Given the minimal impact of cooler inserts or convection prevention, some furthe
 #### Reduce risks:
 Finally, to avoid project failure for safety reasons, and to maintain teammembers' safety, all members will produce and sign risk assessments for the tools and methods to be used in this project. 
 
-## The assessment of the risks and safety
+## The Assessment of the Risks and Safety Considerations
 ### Tooling Risks
 #### Effect
 * Burns from hot glue guns
