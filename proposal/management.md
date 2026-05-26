@@ -1,7 +1,7 @@
-# Project management plan
+# Project Management Plan
 
-## The people
-Our group is made up of Karen, Kerry and Kavita:
+## The People
+The three members in our team are Karen, Kerry, and Kavita:
 
 Karen (mechanical/electrical engineer)
 - Strengths: 3D modelling,3D printing, Drawing
@@ -15,7 +15,7 @@ Kavita (mechanical/electrical)
 - Strengths: Electronics, 3D printing experience
 - Weaknesses: Computational modelling
 
-## The resources needed
+## The Resources Needed
 | Resource | Cost | Source |
 |---|---|---|
 | PLA printer filament | £10–15 | CUED |
@@ -26,10 +26,10 @@ Kavita (mechanical/electrical)
 | Hot Glue Sticks | £1 | CUED |
 
 
-## The timeline
+## The Timeline
 ![Timeline](timeline.png)
 
-## Contingency plans
+## Contingency Plans
 Our approach to contingency involves a variety of strategies. 
 #### Extra Time:
 Firstly, extra time has been included in the development timeline at the end of the project. This means that, in the case of delays or unexpected issues during the course of the project, our timeline is be flexibile enough to allow the team to finish any required work on time. This is particularly useful since the plan is to operate a continuous sequence of experiments - any hiccups may lead to cascading delays. The contingency days overlap with the report-writing period, as the work can be carried out flexibly alongside other tasks.
