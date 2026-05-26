@@ -62,11 +62,17 @@ Kavita (mechanical/electrical)
 * Use non-hazardous materials in 3D printer
 
 ## Contingency plans
+Our approach to contingency involves a variety of strategies. 
 #### Extra Time:
-* Contingency days at end to account for testing taking longer than expected
-#### Staged testing approach:
-* Test out concepts before we put significant time into designing
-#### Other ideas:
-* Some alternatives areas to look at if our initial testing suggests the concept is not viable e.g. effect of underfilling ice bottle (does this exacerbate asymmetric cooling), insulation methods & materials
+Firstly, extra time has been included in the development timeline at the end of the project. This means that, in the case of delays or unexpected issues during the course of the project, our timeline is be flexibile enough to allow the team to finish any required work on time. This is particularly useful since the plan is to operate a continuous sequence of experiments - any hiccups may lead to cascading delays. The contingency days overlap with the report-writing period, as the work can be carried out flexibly alongside other tasks.
+
+#### Staged Testing Approach:
+An important consideration for this experiment-driven project is ensuring that progress is not entirely dependent on a single test outcome. As an example, early in the testing phase, an experiment will be conducted to assess the significance of convection in causing non-uniform cooling. If convection is found to have a substantial effect, the next stage of the project will focus on designing a new vaccine carousel to mitigate natural convection within the cooler. If the effect is minimal, a contingency plan will be implemented involving further investigation into other factors that may contribute to non-uniform cooling. This staged testing approach ensures the progress of this project does not falter given a certain test result.
+
+#### Other Ideas to Investigate:
+Given the minimal impact of cooler inserts or convection prevention, some further investigations can be conducted, to provide Kitty and IDEABATIC more information on the SMILE Go. These include:
+* The effect of underfilling the bottle - investigating the effect of a larger air bubble on non-uniform cooling.
+* Insulation methods and materials - investigating cheap and viable alternatives for SMILE Go manufacture.
+
 #### Reduce risks:
-* Complete risk assessments
+Finally, to avoid project failure for safety reasons, and to maintain teammembers' safety, all members will produce and sign risk assessments for the tools and methods to be used in this project. 
