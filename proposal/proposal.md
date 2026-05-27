@@ -16,7 +16,11 @@ In the SMILE, a single ice pack is used to reduce the risk of improper use and s
 
 # Presentation of the proposal
 
-Through this project, we will investigate the causes of asymmetric cooling in the SMILE GO and explore ideas to reduce this temperature variation. One proposed cause of the variation is the melting behaviour of the horizontal ice pack. As it melts,  Since the bottle is horizontal ... namely the air gap at the top of the ice-pack bottle when the ice melts. Over the course of the next few weeks, we will:
+Through this project, we will investigate the causes of asymmetric cooling in the SMILE GO and explore ideas to reduce this temperature variation. One proposed cause of the variation is the melting behaviour of the horizontal ice pack. As it melts, the cold water accumulates at the bottom, the remaining ice floats on top and there is a air pocket at the top due to the respective densities or air, water and ice. This results in a non-uniform thermal interface to the vaccine carousel, potentially reducing heat transfer to the upper vaccines and therefore leading to the asymmetric cooling seen. Another factor we believe may cause the variation is the formation of natural convection currents within the vaccine carousel chamber.
+  
+To investigate these effects, thermal experiments and prototype modifications will be conducted to analyse ice melt behaviour and temperature distribution throughout the system. Potential solutions may include redesigning the ice-pack geometry, altering bottle orientation, or introducing internal thermal conduction features to achieve more uniform cooling. By reducing thermal asymmetry, the project aims to improve temperature stability and extend the effective cool life of vaccines during transport and administration.
+
+Over the course of the next few weeks, we will:
 - Design & test cooler insert with the aim of reducing the airgap at the top and redistributing the ice in the bottle
 - Investigate impact of convection
 - Prototype new carousel design to reduce convection
