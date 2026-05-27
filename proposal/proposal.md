@@ -9,13 +9,14 @@ Key features of the SMILE system include:
 - Separation between the ice pack and the vaccine chamber, protects the vaccines from freezing.
 
 **The problem** <br>
-In the SMILE, a single ice pack is used to reduce the risk of improper use and simplify operation. However, this design leads to issues of asymmetric cooling within the vaccine chambers. Thermal testing has demonstrated that the upper vaccine chambers are hotter than the lower chambers in the carousel, leading to non-uniform cooling. Since vaccines need to stay within such the narrow temperature range or 2-8°C, if we can investigate what is causing this asymmetry and prototype potential solutions, we can extend the cool life of the vaccines. In the original SMILE, extra insulation was added at the top leading to an asymmetric centre, however, the SMILE Go does not use this design.
+In the SMILE, a single ice pack is used to reduce the risk of improper use and simplify operation. However, this design leads to issues of asymmetric cooling within the vaccine chambers. Thermal testing has demonstrated that the upper vaccine chambers are hotter than the lower chambers in the carousel, leading to non-uniform cooling. Since vaccines need to stay within such the narrow temperature range or 2-8°C, temperature differences will reduce the potential storage duration. By investigating the potential causes of this asymmetry and prototyping potential solutions, we can improve the reliability and extend the cool life of the vaccines. In the original SMILE, additional insulation was added at the top resulting in an asymmetric centre, to counteract heat entering from above. However, the SMILE Go (prototype we are looking at) does not use this design. We are aiming to explore alternative strategies.
+
 <img width="935" height="496" alt="Screenshot 2026-05-23 at 15 54 28" src="https://github.com/user-attachments/assets/c3e22f63-45eb-4d0e-b80a-8faf1e57af6d" />
 
 
 # Presentation of the proposal
 
-We want to investigate the causes and ways to reduce asymmetric cooling. We have a few ideas on what the possible causes are, namely the air gap at the top of the ice-pack bottle when the ice melts. Over the course of the next few weeks, we will:
+Through this project, we will investigate the causes of asymmetric cooling in the SMILE GO and explore ideas to reduce this temperature variation. One proposed cause of the variation is the melting behaviour of the horizontal ice pack. As it melts,  Since the bottle is horizontal ... namely the air gap at the top of the ice-pack bottle when the ice melts. Over the course of the next few weeks, we will:
 - Design & test cooler insert with the aim of reducing the airgap at the top and redistributing the ice in the bottle
 - Investigate impact of convection
 - Prototype new carousel design to reduce convection
