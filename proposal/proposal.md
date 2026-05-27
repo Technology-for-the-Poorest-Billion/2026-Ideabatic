@@ -39,8 +39,7 @@ In the wider context, this project will be:
   
 - **Accessible to end users** - the modifications we are making would not significantly affect usability as the changes are limited to the ice-pack bottle and the vaccine carousel design. The changes would affect manufacturing. We will keep this accessible by still using 3D printed parts and not adding significantly more parts. Any insert we design should be simple and a potential redesign of the carousel should not decrease its usability
   
-- **Context appropriate** - The SMILE project is <img width="951" height="498" alt="Screenshot 2026-05-23 at 15 54 02" src="https://github.com/user-attachments/assets/d9d839a2-55d6-4375-9dcc-90ea54956e5d" />
-being developed for use in countries such as Cameroon where the ambient temperature is significantly hotter than the UK so the cooling aspect is more important. Additionally, the aim is for the product to be manufacturable in a makerspace in the country of use, so it should be 3d printable and use accessible materials.
+- **Context appropriate** - The SMILE project is being developed for use in countries such as Cameroon where the ambient temperature is significantly hotter than the UK so the cooling aspect is more important. Additionally, the aim is for the product to be manufacturable in a makerspace in the country of use, so it should be 3d printable and use accessible materials.
 
 
 
