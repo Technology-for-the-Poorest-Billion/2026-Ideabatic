@@ -1,0 +1,21 @@
+# Progress So Far - Interim presentation
+
+At roughly the halfway point through the project, a substantial amount of work has been completed. This includes:
+* Completing Risk Assessments
+* Managing Team Coordination - location, timing, availability, communication, documentation access
+* Acquiring sensors, putting together electronics and assembling code for temperature sensing
+* Preliminary sensor tests over extended time periods before control test
+* Finalised experimental setup and apparatus
+* Research and documentation
+  * PLA properties, manufacture and suitability in context - e.g. performance limitations of porosity
+  * Convection methods and experimental setup
+  * Image documentation - design choices noted visually
+* 3D printing and iterating bottle inserts for insert tests
+* Hot gluing inserts into bottle to create airtight seals
+* Completing test of seal/insert integrity over a freeze-thaw cycle and removal methods
+* Tests Performed:
+  * Control Test
+  * Insert Test (1)
+  * Door-side-down Test
+  * Lifted Bottle Test
+* Generating conclusions and further ideas to investigate based on the results obtained
