@@ -1,8 +1,8 @@
-#Technology For the Poorest Billion 
-##IDEABATIC – Uniform Cooling Solutions 
-##Kerry Dai (with Kavita, Karen and working with Kitty and Oliver) 
-###Individual Report 
-##Introduction 
+# Technology For the Poorest Billion 
+## IDEABATIC – Uniform Cooling Solutions 
+## Kerry Dai (with Kavita, Karen and working with Kitty and Oliver) 
+### Individual Report 
+## Introduction 
 Vaccines are used all over the world to save lives and must be kept within a temperature range of 
 2-8C to remain useful. In some areas such as rural Cameroon, it is difficult to maintain the strict 
 temperature requirements for the vaccines, and cooler boxes must be used for the last mile of 
@@ -16,8 +16,8 @@ SMILE Go, where the upper vaccine compartments are warmer than the lower section
 project aims to investigate and explore the reasons why such a temperature differential exists, 
 and to offer suggestions as to what possible ways it can be mitigated.
 
-##Technical Progression 
-###Direction  
+## Technical Progression 
+### Direction  
 This step in this project involved extensive research and brainstorming into the different ways to 
 approach investigating the non-uniform cooling. As a team, it was initially decided that two main 
 branches of exploration were the most promising – bottle inserts, which were strongly suggested 
@@ -30,7 +30,7 @@ rather than letting it sit on the bottom.
 
 ![image1](image1.png)
 
-###Experimental Set-up 
+### Experimental Set-up 
 The project involved extensive temperature sensing to navigate the testing. Much credit is due for 
 Kavita, who managed to handle the electrical side of this project, soldering temperature sensors 
 to the Arduino board and writing the code for the testing.  
@@ -47,7 +47,7 @@ Credit to Kavita for putting this series of images together.
 The vaccine carrier/cooler box was then placed in a waterproof tub, to ensure any faults in the 
 set-up which caused water leakage wouldn’t come into contact with the electrical components.
 
-###Testing 
+### Testing 
 Testing involved many different set-ups: 
 • Control Test (no modifications to the original design) 
 • Bottle Inserts – PLA 3D printed sheets were printed and hot glued inside the bottle to 
@@ -74,7 +74,7 @@ down the search space for the source of the non-uniform cooling.
 Bashford during the Project Proposal presentation for suggesting this idea. 
 • Vertical Test – Vaccine carrier oriented in the vertical direction, rather than horizontal. 
 
-###Inserts Research 
+### Inserts Research 
 To make a complete assessment of the implications of our insert tests, research was conducted 
 by Karen and I into the materials properties of PLA and our insert sealing methods. 
 
@@ -101,7 +101,7 @@ For large scale production, an easier manufacturing approach such as blow mouldi
 used, as it would eliminate manually sealed joints and create a more durable, airtight and 
 watertight bottle for the vaccine cooler. 
 
-###Gluing Inserts 
+### Gluing Inserts 
 As part of the insert tests, a watertight and airtight seal was required between the interface of the 
 PLA inserts and HDPE bottle/ice pack. The team delegated this part of the work to me.  
  
