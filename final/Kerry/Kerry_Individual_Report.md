@@ -28,14 +28,14 @@ For example, noticing that the ice pack did not sit completely flush in the hous
 inspiration to test the cooler when the ice pack was pressed into the upper surface of the cooler 
 rather than letting it sit on the bottom.  
 
-![image1](image1.png)
+<img src="image1.png" width="300"/>
 
 ### Experimental Set-up 
 The project involved extensive temperature sensing to navigate the testing. Much credit is due for 
 Kavita, who managed to handle the electrical side of this project, soldering temperature sensors 
 to the Arduino board and writing the code for the testing.  
 
-![imagek](imagek.png)
+<img src="imagek.png" width="200"/>
 
 Credit to Kavita for making this electrical diagram. 
 
