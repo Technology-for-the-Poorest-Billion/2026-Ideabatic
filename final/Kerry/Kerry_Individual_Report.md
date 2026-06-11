@@ -164,9 +164,8 @@ caused by natural convection within the vaccine chamber.
 To stop the flow of air around the chamber, add radial planes that stretch from the inner radius of 
 the vaccine chamber to the outer radius, and extend from the front to the back end. These planes 
 should be as well-fitting as can be reasonably constructed, to best resist the flow of hotter air to 
-the top section, and the flow of cooler air to the lower sections.  
-
-Some air gaps will still exist, which will decrease the effectiveness of stopping the convection. 
+the top section, and the flow of cooler air to the lower sections. Some air gaps will still exist, 
+which will decrease the effectiveness of stopping the convection. 
 However, it may be such that the radial planes are effective enough to create more uniform 
 cooling.  
 
