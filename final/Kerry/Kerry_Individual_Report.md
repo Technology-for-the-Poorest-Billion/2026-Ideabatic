@@ -10,6 +10,8 @@ box, a cooling system designed to keep vaccines cold during transportation. The 
 prototype designed to be a smaller, lighter, and easier to carry version of the SMILE.  
 
 ![imagea](imagea.png)
+
+<img src="imagea.png" width="10"/>
  
 In previous testing, it was discovered that there is present an asymmetric cooling effect in the 
 SMILE Go, where the upper vaccine compartments are warmer than the lower sections. This 
