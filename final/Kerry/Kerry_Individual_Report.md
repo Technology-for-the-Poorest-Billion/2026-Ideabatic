@@ -207,7 +207,7 @@ cold air generated from the ice from falling quickly to the bottom of the chambe
 meaningful quantification of this change requires more extensive testing and analysis, but it 
 provided enough information for the team to progress.  
 
-<img src="image9.png" width="700"/>
+<img src="image9.png" width="900"/>
 
 Note that in this case, S3 and S4 are the sensors at the **bottom** whereas S1 and S2 are the sensors at the **top** of the vaccine chamber.
 
