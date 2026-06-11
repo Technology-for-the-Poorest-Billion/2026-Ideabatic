@@ -83,7 +83,7 @@ uniform ice, water, and air distribution within the ice pack itself as it melts,
 has a different density and buoyancy. Thus, by more evenly distributing the phases within the 
 bottle, the asymmetry could be mitigated. 
 
-![imagec](imagec.png)
+<img src="imagec.png" width="300"/>
 
 Credit to Karen for making this cooler insert diagram. 
 
@@ -106,7 +106,7 @@ watertight bottle for the vaccine cooler.
 As part of the insert tests, a watertight and airtight seal was required between the interface of the 
 PLA inserts and HDPE bottle/ice pack. The team delegated this part of the work to me.  
 
-![imaged](imaged.png)
+<img src="imaged.png" width="300"/>
 
 Prior to any testing being done, while the electronics were being put together by Kavita, a sample 
 insert was printed (credit to Karen for all 3D printing). This was used by me to trial a hot gluing 
@@ -123,8 +123,8 @@ on the hot gluing process.
 
 The hot glue is an effective sealer for testing purposes as it remained structurally intact after a 
 freeze-thaw cycle, while also retaining water/air proofing capabilities throughout the test cycle. 
- 
-![image4](image4.png)
+
+ <img src="image4.png" width="300"/>
 
 ### Convection 
 A hypothesis regarding the non-uniform cooling is that it is the natural convection of the air within 
@@ -133,7 +133,7 @@ that is generated at the top of the chamber falls to the bottom. This leads to a
 differential that is reflected in the data collected by Kitty and Oliver in their previous experiments, 
 where the chambers near the top of the cooler are warmer than those at the bottom.
 
-![imagee](imagee.png)
+<img src="imagee.png" width="600"/>
  
 The convection testing side of the project was directed much by me, especially the research, but 
 Karen and Kavita both contributed great input in putting the test together. In general, the testing 
@@ -146,7 +146,7 @@ have a significantly uneven distribution within the bottle. In this case, once t
 it would be expected that the temperatures differentiate as the water-ice-air ratio evens out 
 (creates more non-uniformity).  
 
-![imagef](imagef.png)
+<img src="imagef.png" width="400"/>
  
 However, consider that it is convection that causes the temperatures to be different. The natural 
 convection effect is, on the timescales of the experiment, much faster, as the cooler air generated 
@@ -168,14 +168,15 @@ Some air gaps will still exist, which will decrease the effectiveness of stoppin
 However, it may be such that the radial planes are effective enough to create more uniform 
 cooling.  
 
-![imageg](imageg.png)
+<img src="imageg.png" width="400"/>
  
 From research, if taken to a much smaller scale, this is how insulation works. For example, 
 fibreglass insulation creates a fine web of fibres, which traps air into very small pockets and 
 resists its flowing motion. This convection design essentially makes use of this principle, but on 
 a larger scale.  
 
-![imageh](imageh.png)  ![imagei](imagei.png)
+<img src="imageh.png" width="300"/>
+<img src="imagei.png" width="300"/>
  
 The experimental set-up utilised ten thick pieces of card cut into slightly oversized planes, which 
 were inserted into existing slots on the vaccine carousel, and taped to ensure better airproofing. 
@@ -197,7 +198,7 @@ A towel was placed in the central section of the box where the ice pack normally
 stop any convection currents in that region from cooling the lower section of the vaccine cooler 
 box affecting the results. 
 
-![imagej](imagej.png)
+<img src="imagej.png" width="300"/>
  
 After 100 minutes of testing with the radial planes present and the ice at the top of the carousel, 
 the bottom two sensors did not show a large temperature drop at all, however the top sensors 
@@ -207,7 +208,7 @@ cold air generated from the ice from falling quickly to the bottom of the chambe
 meaningful quantification of this change requires more extensive testing and analysis, but it 
 provided enough information for the team to progress.  
 
-![image9](image9.png)
+<img src="image9.png" width="700"/>
 
 Note that in this case, S3 and S4 are the sensors at the **bottom** whereas S1 and S2 are the sensors at the **top** of the vaccine chamber.
 
@@ -222,7 +223,7 @@ One caveat to this test is that the fan may cause its own heating from the elect
 that run the fan. This effect can be mitigated by running the fan intermittently, which prevents it 
 from overheating.  
 
-![image7](image7.png)
+<img src="image7.png" width="400"/>
 
 It is critical to note that this test is more solution-oriented, rather than aiming to identify the 
 source of the non-uniform cooling. This is because the fan effectively hides or covers the non-
@@ -247,7 +248,7 @@ this project, the electronic complexity of this system is slightly beyond the sc
 focus being using our existing capabilities to investigate the non-uniformity of the cooling to the 
 best of the team’s ability. 
 
-![image8](image8.png)
+<img src="image8.png" width="300"/>
 
 An alternate solution that was considered is using a USB-powered fan for the convection test. In 
 this case, the fan would be completely isolated from the Arduino and temperature sensor 
