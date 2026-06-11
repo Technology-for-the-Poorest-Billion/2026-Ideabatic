@@ -181,7 +181,7 @@ foam seals were used at one end of the vaccine carrier where the seal had a larg
 
 ###### Radial Plane Effectiveness 
 A test was conducted to see how well the radial planes stops cold air from falling into lower 
-sections of the chamber. Ice cubes were placed in the very top of the vaccine carousel, and 
+sections of the chamber. Ice cubes were placed in the very *top* of the vaccine carousel, and 
 temperature readings were taken over time to assess the rate at which the lower sensors would 
 cool, compared to the sensors nearer the top of the chamber (closer to the ice). This was 
 compared to the same experiment, but where no planes are present.  
@@ -201,6 +201,8 @@ meaningful quantification of this change requires more extensive testing and ana
 provided enough information for the team to progress.  
 
 ![image9](image9.png)
+
+Note that in this case, S3 and S4 are the sensors at the **bottom** whereas S1 and S2 are the sensors at the **top** of the vaccine chamber.
 
 ##### Force the flow (Forced Convection) 
 By using a small fan, the air within the vaccine chamber can be forcefully convected and kept 
