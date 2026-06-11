@@ -1,2 +1,5 @@
-# Project Template
-Fork this for a basic structure for each project
+# IDEABATIC -Uniform Cooling Solutions
+
+This is our team's Git Repository for our project.
+
+Our team worked with IDEABATIC to investigate a non-uniform cooling issue within the SMILE Go vaccine carrier, a cooling device designed to transport vaccines safely in remote regions with limited access to refrigeration. Previous testing had shown that vaccines stored in the upper compartments of the carrier were consistently warmer than those in the lower compartments, potentially reducing vaccine effectiveness and storage life. To understand the causes of this temperature asymmetry, we developed a custom temperature-monitoring system and conducted a series of experiments investigating factors such as ice pack geometry, natural convection, door heat ingress, and thermal contact within the cooler. Our results showed that no single factor was solely responsible for the cooling imbalance, but that multiple interacting mechanisms likely contribute to the problem. The most effective passive solution was a redesigned ice pack insert, which reduced the temperature difference by approximately 2°C, while forced airflow using small fans almost completely eliminated the asymmetry. The findings provide valuable insight into the thermal behaviour of the SMILE Go and offer practical recommendations to support the future development of more reliable vaccine transport systems.
