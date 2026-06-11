@@ -60,4 +60,47 @@ Throughout the design process, Kerry and I analysed the materials used in this t
 
 PLA was suitable for rapid prototyping because it was cheap, quick to manufacture, readily available in the Dyson Centre, and allowed complex geometries to be produced easily. However, it is not ideal for long-term use in the SMILE GO cooler. The material PLA itself can absorb moisture over time and may undergo hydrolytic degradation in water. Repeated freezing and thawing may also cause the absorbed water within the print to expand and contract, potentially opening cracks or weakening the interfaces between printed layers. For the short duration of our prototype testing, these limitations were acceptable, but they would be problematic for a cooler intended to last for several years.
 
-Sealing the inserts inside the bottle also presented practical difficulties...
+Sealing the inserts inside the bottle also presented practical difficulties. Hot glue was selected because it solidified quickly, was low cost, and could be removed relatively easily, making it suitable for iterative prototype testing. However, it is not a reliable long-term sealing method. The bottle is made from polyethylene, which hot glue only bonds to weakly, and the adhesive may become more brittle during freezing. Repeated freeze-thaw cycles could therefore cause the hot glue to debond from either the PLA or the bottle wall, allowing water or air to pass between chambers.
+
+I identified PETG as a more suitable material for future 3D printed prototypes, as well as for the carousel that becomes wet due to condensation. It has lower water absorption than PLA, is more water resistant, and is less brittle at low temperatures. This would make it better suited to a water-filled component undergoing repeated freeze-thaw cycles. However, PETG was not available in the Dyson Centre during the project, so PLA remained the most practical option for the tested prototypes.
+
+Alternative sealing methods were also considered. Epoxy coating could improve the waterproofing of printed PLA parts, but its long curing time made it unsuitable for our project timescale. I identified silicone sealant to be more appropriate for long-term sealing because it remains flexible at low temperatures and can better accommodate differential thermal expansion between the bottle and the insert. However, its curing time is also much longer than hot glue, so it was less convenient for rapid prototyping.
+
+Overall, the insert design was suitable as a proof-of-concept prototype, but not as a final production solution. For small-scale use, improved 3D printed inserts using PETG and a more durable sealant could be investigated. For larger-scale manufacture, a more robust approach would be to eliminate the separate inserts and adhesive joints entirely by producing a bottle with integrated internal chambers, for example through extrusion blow moulding or stretch blow moulding. This would improve durability, watertightness and reliability over the intended service life of the cooler.
+
+# Testing
+
+The electronic set up to obtain data from four temperature sensors was made by Kavita, where two probes measured the upper compartments and two measured the lower compartments. A control test was conducted with the original set up to serve as a baseline for our tests.
+
+As a team, we thought of potential reasons for the asymmetrical cooling and subsequently set up experiments together to run. These tests and results can be found in the “Test Results & Analysis” document. Other than the insert test, the test demonstrating the effect of the base of the ice pack in contact with the carousel was conducted by inserting small sticks into this gap. To understand the role of convection in the thermal data, ten cardboard radial planes were used and slotted into the carousel. The edges were sealed by duct tape to ensure no air could pass between the compartments on the carousel. The tests evolved as we obtained data so the inserts, convection planes and sticks had to be put on multiple times. Each was compared against the control tests 1 and 2 depending on the ambient temperature in the experiment.
+
+The insert was subsequently incorporated into the combination tests alongside other mitigation strategies. These combined approaches produced further reductions in temperature difference compared to the insert alone, suggesting that multiple factors contribute to the observed non-uniform cooling.
+
+# Results
+
+The insert test demonstrated that partitioning the ice pack into multiple chambers reduced the temperature difference within the vaccine compartment. At 12 hours, the temperature difference between the warmest and coolest measurement locations decreased from approximately 7.2°C in the control test to 5.3°C with the insert installed, representing an improvement of around 2°C. The results suggest that the distribution of ice, meltwater and air within the bottle influences the overall cooling behaviour of the SMILE GO cooler. The graphs can be seen in the “Test Results & Analysis” document attached in this github.
+
+Although the improvement was significant, substantial temperature differences remained throughout the test. This indicated that the air gap within the bottle was not the sole cause of the non-uniform cooling. The ambient temperature also fluctuates during the experiment, affecting the temperature within the carousel. The insert therefore reduced the severity of the problem but did not completely resolve it. This is in-line with our hypothesis.
+
+The inserts were subsequently incorporated into the combination tests alongside other modifications, including improved thermal contact and radial planes intended to reduce convective air movement. These combined interventions produced greater improvements than the insert alone, suggesting that multiple heat transfer mechanisms contribute to the observed temperature gradients. This finding indicates that future design improvements should consider the combined effects of ice pack geometry, thermal contact and convection rather than treating each factor independently.
+
+The in-depth data and analysis of the remaining tests are in the “Test Results & Analysis” document attached.
+
+# Conclusions
+
+The objective of the insert development programme was to investigate whether segmentation of the ice pack could reduce the non-uniform cooling observed within the SMILE GO vaccine carrier. The results demonstrated that the insert successfully reduced the temperature difference between the warmest and coolest regions of the vaccine chamber, improving cooling uniformity by approximately 2°C compared to the control test. This supports the hypothesis that the internal geometry of the ice pack influences the thermal behaviour of the cooler.
+
+However, the inserts did not eliminate the asymmetry entirely. Subsequent testing showed that additional mechanisms, particularly natural convection within the vaccine chamber and the thermal interaction between the ice pack and carousel, also contribute to the observed temperature gradients. The insert should therefore be considered a partial mitigation strategy rather than a complete solution. This reinforced the need to investigate additional mechanisms such as convection within the vaccine chamber and the thermal contact between the ice pack and carousel.
+
+The project also highlighted the importance of considering manufacturability alongside thermal performance. Although PLA inserts and hot glue seals were suitable for rapid prototyping, several limitations were identified regarding porosity, moisture absorption, durability and sealing reliability. These factors are unlikely to significantly affect short-term testing but would present challenges for long-term deployment.
+
+Overall, the insert programme provided valuable evidence that modifications to the ice pack can improve cooling uniformity and contribute to a broader understanding of the mechanisms responsible for non-uniform cooling within the SMILE GO cooler.
+
+# Recommendations
+
+The insert concept demonstrated sufficient promise to justify further investigation. Future work should investigate alternative insert geometries and chamber arrangements to determine whether greater improvements in cooling uniformity can be achieved. Additional testing should also be conducted to evaluate the influence of chamber size, air gap distribution and amount of 3D print used on thermal performance.
+
+For future prototypes, PETG should be considered in place of PLA due to its improved water resistance, lower moisture absorption and better resistance to low-temperature embrittlement. Alternative sealing methods such as silicone sealant should also be investigated to improve durability during repeated freeze-thaw cycles.
+
+Further testing should be performed under more controlled environmental conditions and over longer timescales to better replicate real operating conditions. Repeated freeze-thaw cycling would be particularly valuable for assessing the long-term reliability of both the insert and the sealing method. The cooler used for the test was broken from long-term use and drop-tests, so using a better sealed cooler would be useful.
+
