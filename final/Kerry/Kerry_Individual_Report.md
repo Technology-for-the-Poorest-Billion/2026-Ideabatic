@@ -34,7 +34,12 @@ rather than letting it sit on the bottom.
 The project involved extensive temperature sensing to navigate the testing. Much credit is due for 
 Kavita, who managed to handle the electrical side of this project, soldering temperature sensors 
 to the Arduino board and writing the code for the testing.  
- 
+
+![imagek](imagek.png)
+
+Credit to Kavita for making this electrical diagram. 
+
+
 Five temperature sensors were used, four of which were placed in the vaccine chamber (two 
 upper and two lower) while one was kept outside in the ambient air. Wires were stripped of their 
 outer insulation, in order to fit them between the gaps in the cooler box when assembled. The 
