@@ -1,3 +1,4 @@
+// This is the arduino C++ code used for the temperature monitoring system. Note this does not include code for adding on the RTC module
 // Libraries
 #include <OneWire.h>
 #include <DallasTemperature.h>
