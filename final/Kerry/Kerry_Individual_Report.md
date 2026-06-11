@@ -9,9 +9,7 @@ the delivery of the vaccines to remote locations. IDEABATIC created the SMILE va
 box, a cooling system designed to keep vaccines cold during transportation. The SMILE Go is a 
 prototype designed to be a smaller, lighter, and easier to carry version of the SMILE.  
 
-![imagea](imagea.png)
-
-<img src="imagea.png" width="10"/>
+<img src="imagea.png" width="200"/>
  
 In previous testing, it was discovered that there is present an asymmetric cooling effect in the 
 SMILE Go, where the upper vaccine compartments are warmer than the lower sections. This 
