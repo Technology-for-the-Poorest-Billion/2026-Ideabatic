@@ -9,7 +9,7 @@ the delivery of the vaccines to remote locations. IDEABATIC created the SMILE va
 box, a cooling system designed to keep vaccines cold during transportation. The SMILE Go is a 
 prototype designed to be a smaller, lighter, and easier to carry version of the SMILE.  
 
-<img src="imagea.png" width="200"/>
+<img src="imagea.png" width="300"/>
  
 In previous testing, it was discovered that there is present an asymmetric cooling effect in the 
 SMILE Go, where the upper vaccine compartments are warmer than the lower sections. This 
@@ -35,7 +35,7 @@ The project involved extensive temperature sensing to navigate the testing. Much
 Kavita, who managed to handle the electrical side of this project, soldering temperature sensors 
 to the Arduino board and writing the code for the testing.  
 
-<img src="imagek.png" width="200"/>
+<img src="imagek.png" width="500"/>
 
 Credit to Kavita for making this electrical diagram. 
 
@@ -46,7 +46,7 @@ outer insulation, in order to fit them between the gaps in the cooler box when a
 Arduino was connected to a PC in the Dyson Centre, which is constantly powered and can keep 
 the tests running overnight if needed.  
 
-![imageb](imageb.png)
+<img src="imageb.png" width="700"/>
 
 Credit to Kavita for putting this series of images together. 
 
