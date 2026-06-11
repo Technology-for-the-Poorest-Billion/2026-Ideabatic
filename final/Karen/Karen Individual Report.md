@@ -102,3 +102,7 @@ For future prototypes, PETG should be considered in place of PLA due to its impr
 
 Further testing should be performed under more controlled environmental conditions and over longer timescales to better replicate real operating conditions. Repeated freeze-thaw cycling would be particularly valuable for assessing the long-term reliability of both the insert and the sealing method. The cooler used for testing was broken from long-term use and drop-tests, so using a better sealed cooler would be useful.
 
+# References
+
+ChatGPT used for formatting and grammar
+
