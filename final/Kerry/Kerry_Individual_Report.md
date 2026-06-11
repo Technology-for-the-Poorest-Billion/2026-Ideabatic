@@ -48,18 +48,13 @@ set-up which caused water leakage wouldn’t come into contact with the electric
 
 ### Testing 
 Testing involved many different set-ups: 
-• Control Test (no modifications to the original design) 
-• Bottle Inserts – PLA 3D printed sheets were printed and hot glued inside the bottle to 
-segment the inside of the bottle into four separate, airtight sections. 
-• Door Test – The door side of the vaccine carrier was relocated to the bottom side, rather 
-than the top, which was the designed position. 
-• Improved Contact Test – The ice pack/bottle was lifted, within its housing, so that better 
-contact was made with the top surface of the housing. 
-• Convection Test (Radial Planes) – Card cutouts were pressed into the vaccine chamber 
-spaces. 
-• Combination Test 1 – Radial planes set-up in addition to improved contact set-up. 
-• Combination Test 2 – Radial planes set-up, bottle insert added, in addition to improved 
-contact set-up. 
+- Control Test (no modifications to the original design)
+- Bottle Inserts – PLA 3D printed sheets were printed and hot glued inside the bottle to segment the inside of the bottle into four separate, airtight sections. 
+- Door Test – The door side of the vaccine carrier was relocated to the bottom side, rather than the top, which was the designed position. 
+- Improved Contact Test – The ice pack/bottle was lifted, within its housing, so that better contact was made with the top surface of the housing. 
+- Convection Test (Radial Planes) – Card cutouts were pressed into the vaccine chamber spaces.
+- Combination Test 1 – Radial planes set-up in addition to improved contact set-up.
+- Combination Test 2 – Radial planes set-up, bottle insert added, in addition to improved contact set-up. 
 
 The above tests were intended to be used to narrow down the reasons for the asymmetrical 
 cooling and to see how much of the phenomenon was attributed to each factor that the team 
@@ -69,9 +64,8 @@ Results and Discussion section of this report.
 Further tests were conducted with hypotheses surrounding how the asymmetric cooling issue 
 could be mitigated. These tests were more solution-oriented and did not necessarily narrow 
 down the search space for the source of the non-uniform cooling. 
-• Fan Test – Low powered electrical fans inserted into vaccine chamber. Credit to Tom 
-Bashford during the Project Proposal presentation for suggesting this idea. 
-• Vertical Test – Vaccine carrier oriented in the vertical direction, rather than horizontal. 
+- Fan Test – Low powered electrical fans inserted into vaccine chamber. Credit to Tom Bashford during the Project Proposal presentation for suggesting this idea.
+- Vertical Test – Vaccine carrier oriented in the vertical direction, rather than horizontal. 
 
 ### Inserts Research 
 To make a complete assessment of the implications of our insert tests, research was conducted 
@@ -113,14 +107,10 @@ two separate tests.
 
 For possible future prototype testing and for handover information, listed below are suggestions 
 on the hot gluing process. 
-• Seals are best made using one continuous hot running pool of glue rather than repeated 
-heat-cool cycles.  
-• Using probes or tools to move the glue is impractical – it is far too adhesive and will stick 
-to the tool and hinder the formation of a smooth seal. 
-• The hot glue gun is too large to enter the spaces that the bottle and insert creates – gravity 
-must be used to direct the glue to the appropriate interfaces. 
-• Iterative, regular testing should be conducted as the gluing process is occurring, to 
-identify locations of any leaks in the seal. 
+- Seals are best made using one continuous hot running pool of glue rather than repeated heat-cool cycles.
+- Using probes or tools to move the glue is impractical – it is far too adhesive and will stick to the tool and hinder the formation of a smooth seal. 
+- The hot glue gun is too large to enter the spaces that the bottle and insert creates – gravity must be used to direct the glue to the appropriate interfaces.
+- Iterative, regular testing should be conducted as the gluing process is occurring, to identify locations of any leaks in the seal. 
 
 The hot glue is an effective sealer for testing purposes as it remained structurally intact after a 
 freeze-thaw cycle, while also retaining water/air proofing capabilities throughout the test cycle. 
@@ -158,6 +148,7 @@ between the top and bottom of the chamber as soon as the experiment has started.
 #### Methodology 
 Experimentally, there are two ways that were proposed to mitigate the temperature gradient 
 caused by natural convection within the vaccine chamber. 
+
 ##### Stop the flow (Radial Planes) 
 To stop the flow of air around the chamber, add radial planes that stretch from the inner radius of 
 the vaccine chamber to the outer radius, and extend from the front to the back end. These planes 
@@ -264,22 +255,9 @@ For specific test results and analysis, please refer to the ************** docum
 the Git repository. 
 
 To note some interesting observations made from the *********** document: 
-• For most tests, the temperatures within the vaccine carrier seemed to plateau to a 
-consistent value after a few hours (5-7) once the initial transient cooling dip passed. This 
-is why some tests were run for shorter periods of time (as well as giving the team much 
-needed time to run further tests). It is noted that the ice pack was frozen in the materials 
-laboratory freezer in the Engineering Department, for which the temperature is not known 
-– thus, the initial transient effects that cause the sensors to dip to a very cool temperature 
-may be attributed to the ice pack being colder than in Kitty’s testing. 
-• The fan test effectively eliminated non-uniform cooling within the vaccine carrier. The 
-data collected acts as a proof of concept for a solution which would mitigate the 
-asymmetry investigated in this project. 
-• A number of tests on individual factors resulted in small improvements of temperature 
-differences, but the tests which involved a combination of factors, such as radial planes 
-as well as improved contact of the ice pack, showed more promising results and smaller 
-temperature differences than observed in other tests. This suggests that the interactions 
-between different factors tested are important to consider and contribute to the non-
-uniform cooling effect.  
+- For most tests, the temperatures within the vaccine carrier seemed to plateau to a consistent value after a few hours (5-7) once the initial transient cooling dip passed. This is why some tests were run for shorter periods of time (as well as giving the team much needed time to run further tests). It is noted that the ice pack was frozen in the materials laboratory freezer in the Engineering Department, for which the temperature is not known – thus, the initial transient effects that cause the sensors to dip to a very cool temperature may be attributed to the ice pack being colder than in Kitty’s testing.
+- The fan test effectively eliminated non-uniform cooling within the vaccine carrier. The data collected acts as a proof of concept for a solution which would mitigate the asymmetry investigated in this project.
+- A number of tests on individual factors resulted in small improvements of temperature differences, but the tests which involved a combination of factors, such as radial planes as well as improved contact of the ice pack, showed more promising results and smaller temperature differences than observed in other tests. This suggests that the interactions between different factors tested are important to consider and contribute to the non-uniform cooling effect.  
 
 ### Further Testing and Possible Design Solutions 
 Although the testing in this project provided valuable insights into the causes of non-uniform 
@@ -349,6 +327,8 @@ to project needs and individual strengths, so work could progress in parallel wh
 level of communication and coordination across the team. 
 
 ##### References and Accreditation 
-❖ ChatGPT was used for grammatical and editorial purposes for this report.  
+❖ ChatGPT was used for grammatical and editorial purposes for this report. 
+
 ❖ IDEABATIC Git Repository information was used. 
+
 ❖ Previous years’ work on the same project was used. 
