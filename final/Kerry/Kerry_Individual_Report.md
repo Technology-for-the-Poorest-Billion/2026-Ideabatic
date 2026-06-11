@@ -292,18 +292,18 @@ assessment of the conditions experienced by the vaccines themselves. Finally, an
 into the insulation and its effect on the cooling phenomenon could be interesting – this is not 
 something the team focussed on during this project. For example, does the foam insulation 
 porosity play into the cooling behaviour significantly? Will thicker insulation in certain areas 
-mitigate the temperature difference better? This is implemented in IDEABATIC’s SMILE version.
+mitigate the temperature difference better? This is implemented in IDEABATIC’s larger SMILE version.
 
 The results obtained during this project also suggest several potential design improvements. 
-Since the current insulation is sometimes insufficient to consistently maintain the required 2–
-8°C temperature range, additional insulation could be included, particularly in the upper sections 
+Since the current insulation is sometimes insufficient to consistently maintain the required 2–8°C 
+temperature range, additional insulation could be included, particularly in the upper sections 
 of the carrier where temperatures were higher. Alternative ice pack configurations, such as the 
 use of multiple ice packs positioned at different locations within the carrier, may also help 
 improve temperature uniformity. Improvements to the fit between the ice pack and its housing 
 could reduce air gaps and create more consistent thermal contact. Furthermore, promising 
 results were observed when the carrier was oriented vertically and show that a vertical design 
 could be considered in future designs if further testing showed promise. Finally, the forced 
-convection experiments showed that improved airflow mixing has the potential to almost 
+convection experiments showed that increased airflow mixing has the potential to almost 
 eliminate cooling asymmetry. This makes it a particularly promising direction for future 
 development. 
 
