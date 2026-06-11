@@ -30,19 +30,17 @@ Upon discussion with Kitty, we hypothesized that the ice pack cools unevenly bec
 
 I designed the inserts to divide the bottle into multiple chambers while maintaining a simple geometry that could be manufactured using FDM 3D printing. I generated multiple insert designs and evaluated them before a final design was selected. The design process focused on balancing thermal performance with practical manufacturing constraints. The insert needed to fit through the bottle opening, maintain sufficient internal volume for the ice pack, and be manufacturable using the available 3D printing facilities. A few packaging methods were considered such as snap-fit inserts, slotted structures or single print structures. These ideas are presented below:
 
-![Insert design concepts](karen/insert_concepts.png)
+![Insert design concepts](insert_concepts.png)
 
 The first design was selected due to its simplicity and reliability. In this set-up, the two planes have slots that physically interlock, allowing the print to be done as two flat planes instead of a thin 3D part. Two planes were sufficient to demonstrate results, while remaining practical to insert into the bottle. As shown in the diagram below, the larger air gap gets segmented into four chambers, so the upper chamber has less insulation from the air in this set up than without the inserts.
 
-![Bottle chamber segmentation diagram](images/bottle_segmentation.png)
+![Bottle chamber segmentation diagram](bottle_segmentation.png)
 
-![Top view of segmented bottle](images/top_view_segmentation.png)
-
-![Bottle assembly photograph](images/bottle_assembly.jpg)
+![Top view of segmented bottle](segmentation_diagram.png)
 
 However, this design relies on the 3D print being flexible enough to push through the neck of the bottle. Therefore, an initial prototype was produced to verify fit and assembly within the bottle. The inserts were manufactured using PLA through 3D printing. Printing parameters of 100% outer walls and 15% infill provided adequate stiffness while retaining a small degree of flexibility during assembly. This is shown below:
 
-![Initial prototype insert](images/prototype_insert.jpg)
+![Initial prototype insert](prototype_insert.jpg)
 
 Early testing demonstrated that attaching the insert directly to the bottle lid was impractical due to difficulties associated with the screw closure mechanism. As a result, the design was modified to incorporate a separate printed top section. Two further iterations were completed to refine the dimensions and ensure reliable closure of the bottle. The final design successfully allowed the bottle lid to close while maintaining the required internal geometry.
 
