@@ -34,7 +34,7 @@ I designed the inserts to divide the bottle into multiple chambers while maintai
 
 The first design was selected due to its simplicity and reliability. In this set-up, the two planes have slots that physically interlock, allowing the print to be done as two flat planes instead of a thin 3D part. Two planes were sufficient to demonstrate results, while remaining practical to insert into the bottle. As shown in the diagram below, the larger air gap gets segmented into four chambers, so the upper chamber has less insulation from the air in this set up than without the inserts.
 
-![Bottle chamber segmentation diagram](bottle_segmentation.png)
+<img src="bottle_segmentation.png" width="400">
 
 ![Top view of segmented bottle](segmentation_diagram.png)
 
