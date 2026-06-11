@@ -42,7 +42,7 @@ However, this design relies on the 3D print being flexible enough to push throug
 
 Early testing demonstrated that attaching the insert directly to the bottle lid was impractical due to difficulties associated with the screw closure mechanism. As a result, the design was modified to incorporate a separate printed top section. Two further iterations were completed to refine the dimensions and ensure reliable closure of the bottle. The final design successfully allowed the bottle lid to close while maintaining the required internal geometry. These designs are shown in the CAD models below:
 
-<img src="insert_1.png" width="25%"> <img src="insert_2.png" width="25%">
+<img src="insert_1.png" width="25%"> <img src="insert_2.png" width="25%"> <img src="glued_bottle.png" width="25%">
 
 Throughout the design process, several practical limitations of this prototyped design became apparent, particularly regarding print porosity and sealing.
 
