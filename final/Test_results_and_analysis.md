@@ -72,7 +72,7 @@ The 2°C improvement in the temperature difference compared to the control could
 
 
 _________________________________________________________________________
-**Top Thermal contact test**
+**Top Thermal contact test/Improved Contact Test**
 ![Picture4](graphs/Picture4.png)
 Ambient temperature: 23-25°C
 Temperature difference: 4.9°C
