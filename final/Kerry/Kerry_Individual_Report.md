@@ -184,7 +184,9 @@ A test was conducted to see how well the radial planes stops cold air from falli
 sections of the chamber. Ice cubes were placed in the very *top* of the vaccine carousel, and 
 temperature readings were taken over time to assess the rate at which the lower sensors would 
 cool, compared to the sensors nearer the top of the chamber (closer to the ice). This was 
-compared to the same experiment, but where no planes are present.  
+compared to the same experiment, but where no planes are present. The idea is that the 
+progression of the cool air from the ice at the top of the vaccine carousel might have more 
+difficulty travelling from the upper chamber to the lower section with the planes in place.
 
 A towel was placed in the central section of the box where the ice pack normally sits. This is to 
 stop any convection currents in that region from cooling the lower section of the vaccine cooler 
