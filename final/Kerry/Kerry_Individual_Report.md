@@ -121,7 +121,7 @@ freeze-thaw cycle, while also retaining water/air proofing capabilities througho
  
 ![image4](image4.png)
 
-###Convection 
+### Convection 
 A hypothesis regarding the non-uniform cooling is that it is the natural convection of the air within 
 the vaccine chamber that is causing the hot air to rise to the top of the chamber while the cool air 
 that is generated at the top of the chamber falls to the bottom. This leads to a temperature 
