@@ -65,14 +65,16 @@ Testing involved many different set-ups:
 
 The above tests were intended to be used to narrow down the reasons for the asymmetrical 
 cooling and to see how much of the phenomenon was attributed to each factor that the team 
-intended to test. More detail is given about the tests and the reasoning behind the tests in the 
-Results and Discussion section of this report. 
+intended to test.
 
 Further tests were conducted with hypotheses surrounding how the asymmetric cooling issue 
 could be mitigated. These tests were more solution-oriented and did not necessarily narrow 
 down the search space for the source of the non-uniform cooling. 
 - Fan Test – Low powered electrical fans inserted into vaccine chamber. Credit to Tom Bashford during the Project Proposal presentation for suggesting this idea.
-- Vertical Test – Vaccine carrier oriented in the vertical direction, rather than horizontal. 
+- Vertical Test – Vaccine carrier oriented in the vertical direction, rather than horizontal.
+
+More detail is given about all the tests and the reasoning behind them in the 
+Results and Discussion section of this report. 
 
 ### Inserts Research 
 To make a complete assessment of the implications of our insert tests, research was conducted 
