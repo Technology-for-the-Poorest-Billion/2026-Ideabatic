@@ -129,7 +129,8 @@ Results show a small decrease in the temperature difference compared to the seco
 
 _________________________________________________________________________
 **Assessing Convection Setup Effectiveness tests**
-NOT official tests regarding asymmetric cooling!
+
+*Not* official tests regarding asymmetric cooling!
 ![Picture7](graphs/Picture7.png)
 ![Picture8](graphs/Picture8.png)
 Ambient temperature: 22°C
