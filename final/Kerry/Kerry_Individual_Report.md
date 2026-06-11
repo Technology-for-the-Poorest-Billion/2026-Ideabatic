@@ -80,8 +80,8 @@ Results and Discussion section of this report.
 To make a complete assessment of the implications of our insert tests, research was conducted 
 by Karen and I into the materials properties of PLA and our insert sealing methods. 
 
-The idea behind creating inserts is that the non-uniform cooling could be caused by the non-
-uniform ice, water, and air distribution within the ice pack itself as it melts, since each phase 
+The idea behind creating inserts is that the non-uniform cooling could be caused by the non-uniform 
+ice, water, and air distribution within the ice pack itself as it melts, since each phase 
 has a different density and buoyancy. Thus, by more evenly distributing the phases within the 
 bottle, the asymmetry could be mitigated. 
 
