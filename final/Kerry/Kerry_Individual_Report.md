@@ -175,8 +175,7 @@ fibreglass insulation creates a fine web of fibres, which traps air into very sm
 resists its flowing motion. This convection design essentially makes use of this principle, but on 
 a larger scale.  
 
-<img src="imageh.png" width="300"/>
-<img src="imagei.png" width="300"/>
+<img src="imageh.png" width="300"/> <img src="imagei.png" width="300"/>
  
 The experimental set-up utilised ten thick pieces of card cut into slightly oversized planes, which 
 were inserted into existing slots on the vaccine carousel, and taped to ensure better airproofing. 
