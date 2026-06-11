@@ -24,7 +24,7 @@ Temperature sensor: We initially hoped to use the same BlueMaestro sensors as th
 | Tempo Disc Blue (BlueMaestro) | ±0.3          | £30.99          | Amazon      | Large temperature range; Bluetooth connectivity (no wires required)   |
 | Tempo Disc Red (BlueMaestro)  | ±0.3          | £33.99          | Amazon      | Bluetooth connectivity (no wires required)                            |
 
-Table of possible Sensors to use
+_Table of possible Sensors to use_
 
 The setup involved 5x Ds18B20 temperature sensors with their wires going to GND, 5v & pin 2, where pin 2 was connected to 5v via a 4.7k pullup resistor. An SD card module was also connected to the arduino. The arduino was then powered by a computer which also displayed the temperatures in serial monitor as well as writing it to the SD card
 
@@ -37,7 +37,7 @@ The setup involved 5x Ds18B20 temperature sensors with their wires going to GND,
 | 4.7 kΩ Resistor              | 1               | CUED          |
 | RTC (Real-Time Clock) Module | 1               | RS Components |
 
-Table of components used/purchased 
+_Table of components used/purchased_
 
 | Component Pin        | Arduino Pin                                                           |
 | -------------------- | --------------------------------------------------------------------- |
@@ -51,20 +51,31 @@ Table of components used/purchased
 | DS18B20 Sensor: GND  | GND                                                                   |
 | DS18B20 Sensor: DATA | 2 (all sensors daisy-chained together with a 4.7 kΩ pull-up resistor) |
 
+_Table of arduino pin connections_
+
+<img src="Img1.png" width="600"/>
+
 The components were initially connected to a breadboard, and tested with the code individually. After ascertaining that all the components (sensors, SD card module) were working, the circuit was soldered to a stripboard using headers to attach it to the arduino. The code was then successfully implemented. 
 
+<img src="Img2.jpg" width="600"/>
 
-Initial Bread board setup
+_Initial Bread board setup_
 
 
 
-Soldered circuit
+<img src="Img3.jpg" width="600"/>
+
+_Soldered circuit_
+
+
 
 We conducted a test equipment experiment to run overnight to check the equipment worked over several hours and to make sure the dyson PC would provide power overnight.
 
 We then ran a control test aiming to get the same results Kitty did, showing significant asymmetry between the top and bottom of the cooler. This allowed us to compare our subsequent test results with this control test to assess the impact our modifications had. 
 
 ## Equipment test setup
+
+<img src="Img4.png" width="500"/> <img src="Img5.jpg" width="300"/>
 
 # General test setup
 - 4 DS18B20 temperature sensors arranged in the vaccine chambers
