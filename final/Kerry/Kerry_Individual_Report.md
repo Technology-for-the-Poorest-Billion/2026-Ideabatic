@@ -266,10 +266,10 @@ control test result was taken in an environment exceeding 25C, but following tes
 ambient readings nearer 20C. Thus, a second control test was conducted at around 20C for better 
 comparisons.  
 
-For specific test results and analysis, please refer to the **Test Results and Analysis** document attached in 
-the Git repository (in the "final" folder - 2026-Ideabatic/final/Test results & analysis.md). 
+For specific test results and analysis, please refer to the **Test_Results_and_Analysis** document attached in 
+the Git repository (in the "final" folder - 2026-Ideabatic/final/Test_results_and_analysis.md). 
 
-To note some interesting observations made from the **Test Results and Analysis** document: 
+To note some interesting observations made from the **Test_Results_and_Analysis** document: 
 - For most tests, the temperatures within the vaccine carrier seemed to plateau to a consistent value after a few hours (5-7) once the initial transient cooling dip passed. This is why some tests were run for shorter periods of time (as well as giving the team much needed time to run further tests). It is noted that the ice pack was frozen in the materials laboratory freezer in the Engineering Department, for which the temperature is not known – thus, the initial transient effects that cause the sensors to dip to a very cool temperature may be attributed to the ice pack being colder than in Kitty’s testing.
 - The fan test effectively eliminated non-uniform cooling within the vaccine carrier. The data collected acts as a proof of concept for a solution which would mitigate the asymmetry investigated in this project.
 - A number of tests on individual factors resulted in small improvements of temperature differences, but the tests which involved a combination of factors, such as radial planes as well as improved contact of the ice pack, showed more promising results and smaller temperature differences than observed in other tests. This suggests that the interactions between different factors tested are important to consider and contribute to the non-uniform cooling effect.  
