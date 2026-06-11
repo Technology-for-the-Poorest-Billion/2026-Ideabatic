@@ -10,7 +10,7 @@ Vaccines face the logistical challenge of needing to remain within a narrow temp
 
 Earlier this year, a thermal test conducted by our partner Kitty on the current SMILE Go prototype showed a significant temperature gradient across the vaccine carousel (as can be seen in the figure below), with compartments at the top of the carousel being hotter than those at the bottom. Given the narrow temperature range within which vaccines must be stored, this non-uniformity limits the cool life and increases the risk of spoilage. 
  
-
+<img src="1.png" width="300"/>
 
 ## Project direction
 We decided to investigate this non-uniform cooling issue due to the limited understanding of the underlying causes. We initially considered completing a combination of thermal modelling and experimental testing. However, after consulting with our partner, we decided against including thermal modelling within our scope. Some basic modelling has already been completed in previous years’ projects, and developing a more realistic model would require significantly more time, thermal expertise and resources than we had available. As a result, we focused on conducting actual experiments to investigate potential variables that could be contributing to the formation of a temperature gradient. 
@@ -27,23 +27,31 @@ We initially planned to use Kitty’s Bluetooth sensors as they had a resolution
 
 As a result, I developed a test setup using an Arduino connected to 5 temperature sensors, an SD card module for data logging and power source.  My initial plan was to power the Arduino through a PC, which would also allow real-time monitoring through the serial monitor and could therefore provide verification that the test was working correctly at the start, whilst simultaneously storing our data.
 I also developed a backup power plan in case we did not have access to Dyson centre computer overnight. This consisted of 6xAA batteries, a barrel jack connector and an RTC module. 
+
+ <img src="2.png" width="300"/>
  
-Electrical circuit diagram made in Tinkercad circuits
+_Electrical circuit diagram made in Tinkercad circuits_
 
 
 The sensor arrangement consisted of four sensor probes placed within the vaccine carousel (two in upper compartments and two in lower compartments) and one sensor placed out of the cooler for ambient temperature measurement. All sensors were mounted on foam and secured with tape to ensure consistent positioning and comparable height across compartments. The SMILE Go was tested horizontally in a spill tray to mitigate risk from leakage. See the images below to see the test setup.
 
-
+ <img src="3.png" width="300"/>
+ 
+  <img src="4.png" width="300"/>
+  
+   <img src="5.png" width="300"/>
    
   
 Each test used this general test setup and then we made changes to the prototype or icepack. Karen researched into cooler insert material and design and both Karen and Kerry were responsible for implementing those changes on the bottle.
 
 I first breadboarded the circuit and ran code to test the individual components before then soldering the circuit as breadboarded circuits are quite temperamental and given that we would be reusing this circuit a lot it made sense to make it more sturdy. After making sure the test equipment worked, I conducted a test equipment experiment to run overnight to check the equipment worked over several hours and to make sure the dyson PC would provide power overnight.
 
- 
+  <img src="6.png" width="300"/>
+  
 Initial breadboarded circuit
 
- 
+  <img src="7.png" width="300"/>
+  
 Soldered circuit
 
 
@@ -79,13 +87,16 @@ At the end of every test, I then read the txt file from the SD card and compiled
 ## Insert tests
 Karen was responsible for researching, designing and then 3D printing cooler inserts for us to test in the ice pack bottle. Kerry (and Karen) were responsible for inserting the insert and attempting to make it watertight using hot glue. The inserts were 3D printed in PLA, as this was the main print material we had easy access to. However, research was conducted into other materials and sealants to be used, as hot glueing, whilst fine for prototyping, is not suitable for manufacturing.
 Ice pack inserts were an idea our partners were keen for us to look into. The idea behind an insert is that normally, as the ice melts, the cold water would sink to the bottom of the bottle, the ice would float in the middle and then the air would accumulate at the top of the bottle. This could therefore be a factor contributing to the non-uniform cooling. By putting an insert into the ice bottle, this would keep some of the ice and cold water in the top of the icepack bottle when it laid horizontally.
- 
+
+  <img src="8.png" width="300"/>
+  
 Diagram made by Karen
 
 ## Convection tests
 From our tests, it became apparent that cold air was accumulating at the bottom of the carousel while hot air was rising, resulting in the observed temperature gradient. Given that the data showed this gradient forming very quickly, it seemed unlikely to be caused solely by the geometry of the ice melting (the issue targeted by inserts), and we suspected natural convection might be responsible. Kerry researched this idea, and we decided to conduct a test using tightly fitting radial inserts to seal off the individual chambers of the carousel. This would prevent or at least slow down (since not properly airtight) the movement of hot air upwards and the cold air downwards. The results showed a slight reduction in the temperature gradient, but not as much as expected. As a result, I proposed conducting a further test to evaluate the effectiveness of our convection setup. This was done by placing a small bag of ice in the top compartment, both with and without the radial convection setup, to observe how quickly cold air would sink to the bottom of the carousel. Our results did show that the setup had an effect on the convection. However, because a much smaller amount of ice was used, the rate of temperature decrease was significantly lower than in a normal test, so it could not provide an accurate sense of the timescale if using the central icepack instead.
  
-
+ <img src="9.png" width="300"/>
+ 
 ## Assessment of Tests
 Given the nature of the tests and our ability to control certain variables, there were certain things about our setup that were not ideal and may have affected the validity of our results.
 Ambient temperature not being controlled: All our testing was conducted in the Dyson centre rather than a temperature controlled environment. The temperature within Dyson was not constant but stayed within a few degrees in a 24hr cycle. This was already a significant improvement on Kitty’s test which had a temperature range of 18 – 28 °C as the temperature chamber she had initially been using to test the device at 28°C stopped working. However, our testing did show that the ambient temperature significantly effected the cooler’s internal temperatures, leading to rises and drops as per the ambient.
@@ -115,12 +126,14 @@ Our group’s main technical output was our thermal monitoring tests and the res
 
 ## Further testing & potential design changes
 Based on our tests, the most important design changes to make to the current prototype are improving the insulation. This is critical given that in every test our temperature sensors showed that the top compartments were above the required 8 degrees. The current prototype uses spray foam and is very unevenly distributed. 
+
+ <img src="10.png" width="300"/>
  
 Looking at our control tests done at different ambient temperatures and the resulting temperatures the compartments stabilised at, also suggests improving the insulation would help keep the vaccines below 8 degrees and would likely reduce the temperature difference. This insulation could be manipulated to reduce the temperature gradient by adding more or better insulation to the top. This asymmetric insulation concept is employed successfully by the original SMILE. Other alternatives could include adding an additional icepack to the top of the cooler, by the door.
 Additionally, almost all of our tests showed the bottom compartments going well below 2°C into the freezing range which is not acceptable for vaccines. This suggests changes need to be made to the carousel design such that the 3D print is thicker or other insulation is added in some other way. Adding fins all the way around the interior of the central chamber so that the ice pack bottle isn’t in the direct contact with the walls, could prevent this freezing and would also solve the non-uniform contact issue.
 Both solution-oriented tests we conducted showed great promise. The forced convection test with the fans successfully brought the compartments to within the range and led to almost uniform conditions across the carousel. Based on my feasibility calculations above, it would not be too difficult to implement if active solutions were to be considered. The other solution based test was the vertical orientation test. This showed only a 1°C difference between compartment locations at the bottom and top of the icepack (see sensor 2 & 4 in the figure below). However, this test was only conducted for 5.5hrs and the ice pack does not extend to the top of the carousel, so the temperature measured there (sensor 1) was several degrees warmer. It would be worthwhile testing this same setup with a taller icepack and over a longer duration, as this could be a very simple solution if it continued to show such promising results.
  
-
+ <img src="11.png" width="300"/>
 
 ## Reflections
 This project gave me the opportunity to engage with technical areas such as electronics, practical testing, and data analysis. It was also a valuable opportunity to work in a team, figuring out the most effective way to collaborate, divide the workload and manage our limited time effectively. 
