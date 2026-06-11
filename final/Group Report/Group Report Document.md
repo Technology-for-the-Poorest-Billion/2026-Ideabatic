@@ -44,7 +44,7 @@ low-power fans, we found that temperatures became almost identical throughout th
 be practical in its current form (due to it requiring electrical power), it demonstrates that improved airflow management could 
 provide an effective solution in future designs.
 
-![image5](image5.png)
+<img src="image5.png" width="300"/>
 
 Overall, the project narrowed down the most likely causes of non-uniform cooling. The team developed and tested potential 
 improvements and provided IDEABATIC with valuable data to support the development of more effective vaccine delivery systems.
