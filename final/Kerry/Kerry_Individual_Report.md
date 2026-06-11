@@ -190,7 +190,7 @@ A towel was placed in the central section of the box where the ice pack normally
 stop any convection currents in that region from cooling the lower section of the vaccine cooler 
 box affecting the results. 
 
-![imagei](imagei.png)
+![imagej](imagej.png)
  
 After 100 minutes of testing with the radial planes present and the ice at the top of the carousel, 
 the bottom two sensors did not show a large temperature drop at all, however the top sensors 
