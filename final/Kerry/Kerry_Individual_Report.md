@@ -226,8 +226,8 @@ from overheating.
 <img src="image7.png" width="400"/>
 
 It is critical to note that this test is more solution-oriented, rather than aiming to identify the 
-source of the non-uniform cooling. This is because the fan effectively hides or covers the non-
-uniform cooling’s source by mixing all the air together, regardless of where the cooler/warmer air 
+source of the non-uniform cooling. This is because the fan effectively hides or covers the non-uniform 
+cooling’s source by mixing all the air together, regardless of where the cooler/warmer air 
 has come from. For example, if the asymmetric cooling effect stems from an uneven ice 
 distribution within the ice pack, a forced convection test would still theoretically result in more 
 uniform cooling since the air in the vaccine chamber is forced to mix. 
