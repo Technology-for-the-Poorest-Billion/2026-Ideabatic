@@ -149,17 +149,23 @@ After 100 minutes of testing with the radial planes present and the ice at the t
 _________________________________________________________________________
 **Control 2 test (colder ambient temperature)**
 
-Ambient temperature: °C
-Temperature difference: °C
+Ambient temperature: 18.5 - 21.5°C
+Temperature difference: 6°C
 Notes: 
+This test was run for 30hrs so can start to see temperatures rising
 
 **Test setup**
 
+The setup was the same as the original control (the generic test setup) just at a lower ambient temperature. 
+
 **Test Justification**
-…
+
+In the later weeks of the project, ambient temperatures decreased significantly to 20 degrees. Given we were still conducting new tests and still needed baseline data to compare our test data against, we thought it was important to conduct a second control to compare against as ambient temperature seemed to have a significant effect on the temperatures the compartments stabilised at and therefore potentially the gradient.
 
 **Test Analysis**
-…
+
+As can be seen in the graph, the ambient temperature did affect the temperatures that the compartments stabilised at. They stabilised at significantly lower temperatures than had been seen in the original control test. There was also a slight reduction in the temperature gradient, from 7 in the first control to 6°C in this one.
+
 _________________________________________________________________________
 
 **Convection & contact test (combination)**
