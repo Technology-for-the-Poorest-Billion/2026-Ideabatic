@@ -30,7 +30,7 @@ Upon discussion with Kitty, we hypothesized that the ice pack cools unevenly bec
 
 I designed the inserts to divide the bottle into multiple chambers while maintaining a simple geometry that could be manufactured using FDM 3D printing. I generated multiple insert designs and evaluated them before a final design was selected. The design process focused on balancing thermal performance with practical manufacturing constraints. The insert needed to fit through the bottle opening, maintain sufficient internal volume for the ice pack, and be manufacturable using the available 3D printing facilities. A few packaging methods were considered such as snap-fit inserts, slotted structures or single print structures. These ideas are presented below:
 
-![Insert design concepts](images/insert_concepts.png)
+![Insert design concepts](karen/insert_concepts.png)
 
 The first design was selected due to its simplicity and reliability. In this set-up, the two planes have slots that physically interlock, allowing the print to be done as two flat planes instead of a thin 3D part. Two planes were sufficient to demonstrate results, while remaining practical to insert into the bottle. As shown in the diagram below, the larger air gap gets segmented into four chambers, so the upper chamber has less insulation from the air in this set up than without the inserts.
 
