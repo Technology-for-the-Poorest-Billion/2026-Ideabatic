@@ -2,7 +2,7 @@
 
 **Control test** 
 
-![Picture 1](Picture 1.png)
+![Picture1](Picture1.png)
 
 Ambient temperature: 25-27°C
 Temperature difference (once stabilised): 7°C
