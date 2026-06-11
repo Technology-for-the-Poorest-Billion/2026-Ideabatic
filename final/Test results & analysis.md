@@ -2,7 +2,7 @@
 
 **Control test** 
 
-![Picture1](Picture1.png)
+![Picture1](graphs/Picture1.png)
 
 Ambient temperature: 25-27°C
 Temperature difference (once stabilised): 7°C
@@ -26,7 +26,7 @@ As expected, the control test shows the non-uniformity across compartments seen 
 ______________________________________________________________
 
 **Door test**
-![Picture2](Picture2.png)
+![Picture2](graphs/Picture2.png)
 Ambient temperature: 26-27°C
 Temperature difference: 6-7°C
 Notes: 
@@ -48,7 +48,7 @@ One key variable we wanted to test was whether the temperature gradient was caus
 As you can see on the graph, top sensors 3 and 4 still recorded significantly higher temperatures than sensors 1 and 2 which were on the bottom. The temperature difference remained 6-7°C so we were able to rule out the door seal as the dominant cause. Given our tight testing schedule and because it was initially unplanned, we only ran it for 4hrs. However, a more comprehensive test lasting a longer timeframe would be advised.
 ______________________________________________________________
 **Cooler Insert test**
-![Picture3](Picture3.png)
+![Picture3](graphs/Picture3.png)
 Ambient temperature: 24-28°C
 Temperature difference: 5°C
 Notes: 
@@ -73,7 +73,7 @@ The 2°C improvement in the temperature difference compared to the control could
 
 _________________________________________________________________________
 **Top Thermal contact test**
-![Picture4](Picture4.png)
+![Picture4](graphs/Picture4.png)
 Ambient temperature: 23-25°C
 Temperature difference: 4.9°C
 Notes: 
@@ -91,7 +91,7 @@ The icepack being raised off the carousel in the bottom right section rather tha
 
 _________________________________________________________________________
 **Vertical Orientation test**
-![Picture5](Picture5.png)
+![Picture5](graphs/Picture5.png)
 Ambient temperature: 22-24°C
 Temperature difference: between S2 & S4: 1°C, between S1 & S3: 3.2°C
 
@@ -107,7 +107,7 @@ This showed only a 1°C difference between compartment locations at the bottom a
 _________________________________________________________________________
 
 **Convection test**
-![Picture6](Picture6.png)
+![Picture6](graphs/Picture6.png)
 Ambient temperature: 22°C
 Temperature difference: 4°C
 Notes: 
@@ -130,8 +130,8 @@ Results show a small decrease in the temperature difference compared to the seco
 _________________________________________________________________________
 **Assessing Convection Setup Effectiveness tests**
 NOT official tests regarding asymmetric cooling!
-![Picture7](Picture7.png)
-![Picture8](Picture8.png)
+![Picture7](graphs/Picture7.png)
+![Picture8](graphs/Picture8.png)
 Ambient temperature: 22°C
 Notes:
 Note that in this case, S3 and S4 are the sensors at the bottom whereas S1 and S2 are the sensors at the top of the vaccine chamber.
@@ -151,7 +151,7 @@ After 100 minutes of testing with the radial planes present and the ice at the t
 
 _________________________________________________________________________
 **Control 2 test (colder ambient temperature)**
-![Picture9](Picture9.png)
+![Picture9](graphs/Picture9.png)
 Ambient temperature: 18.5 - 21.5°C
 Temperature difference: 6°C
 Notes: 
@@ -172,7 +172,7 @@ As can be seen in the graph, the ambient temperature did affect the temperatures
 _________________________________________________________________________
 
 **Convection & contact test (combination)**
-![Picture10](Picture10.png)
+![Picture10](graphs/Picture10.png)
 Ambient temperature: 21°C
 Temperature difference: 3.5°C
 Notes: 
@@ -195,7 +195,7 @@ The results were promising. Over a six-hour test period, the temperature differe
 _________________________________________________________________________
 
 **Convection, contact & insert test (combination 2)**
-![Picture11](Picture11.png)
+![Picture11](graphs/Picture11.png)
 Ambient temperature: 17.5-21.5°C
 Temperature difference: 4°C towards the end at 24 hours, 3°C at 6.5 hours
 Notes: 
@@ -217,7 +217,7 @@ Initially, the results look promising with the narrowest temperature range seen 
 _________________________________________________________________________
 
 **Fan test**
-![Picture12](Picture12.png)
+![Picture12](graphs/Picture12.png)
 Ambient temperature: 22°C
 Temperature difference: small
 Notes: 
