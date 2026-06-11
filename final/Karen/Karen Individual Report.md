@@ -34,13 +34,13 @@ I designed the inserts to divide the bottle into multiple chambers while maintai
 
 The first design was selected due to its simplicity and reliability. In this set-up, the two planes have slots that physically interlock, allowing the print to be done as two flat planes instead of a thin 3D part. Two planes were sufficient to demonstrate results, while remaining practical to insert into the bottle. As shown in the diagram below, the larger air gap gets segmented into four chambers, so the upper chamber has less insulation from the air in this set up than without the inserts.
 
-<img src="bottle_segmentation.png" width="400">
+<img src="bottle_segmentation.png" width="200">
 
 <img src="segmentation_diagram.png" width="400">
 
 However, this design relies on the 3D print being flexible enough to push through the neck of the bottle. Therefore, an initial prototype was produced to verify fit and assembly within the bottle. The inserts were manufactured using PLA through 3D printing. Printing parameters of 100% outer walls and 15% infill provided adequate stiffness while retaining a small degree of flexibility during assembly. This is shown below:
 
-<img src="prototype_insert.png" width="400">
+<img src="prototype_insert.png" width="200">
 
 Early testing demonstrated that attaching the insert directly to the bottle lid was impractical due to difficulties associated with the screw closure mechanism. As a result, the design was modified to incorporate a separate printed top section. Two further iterations were completed to refine the dimensions and ensure reliable closure of the bottle. The final design successfully allowed the bottle lid to close while maintaining the required internal geometry. These designs are shown in the CAD models below:
 
