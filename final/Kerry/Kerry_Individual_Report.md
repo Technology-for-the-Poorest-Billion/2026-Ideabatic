@@ -262,7 +262,7 @@ used.
 
 ### Results and Discussion 
 The results showed some promising results despite a few uncontrollable factors that were 
-present during the testing phase of the project. These include the ambient temperature – the first 
+present during the testing phase of the project. This includes the ambient temperature – the first 
 control test result was taken in an environment exceeding 25C, but following tests showed 
 ambient readings nearer 20C. Thus, a second control test was conducted at around 20C for better 
 comparisons.  
