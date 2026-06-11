@@ -37,7 +37,7 @@ to the Arduino board and writing the code for the testing.
 
 <img src="imagek.png" width="500"/>
 
-Credit to Kavita for making this electrical diagram. 
+*Credit to Kavita for making this electrical diagram.*
 
 
 Five temperature sensors were used, four of which were placed in the vaccine chamber (two 
@@ -48,7 +48,7 @@ the tests running overnight if needed.
 
 <img src="imageb.png" width="700"/>
 
-Credit to Kavita for putting this series of images together. 
+*Credit to Kavita for putting this series of images together.*
 
 The vaccine carrier/cooler box was then placed in a waterproof tub, to ensure any faults in the 
 set-up which caused water leakage wouldn’t come into contact with the electrical components.
@@ -87,7 +87,7 @@ bottle, the asymmetry could be mitigated.
 
 <img src="imagec.png" width="300"/>
 
-Credit to Karen for making this cooler insert diagram. 
+*Credit to Karen for making this cooler insert diagram.* 
 
 The cooler inserts were manufactured from 3D-printed PLA due to its low cost, quick 
 prototyping ability, and low-cost complexity. While useful for experimental testing, several 
