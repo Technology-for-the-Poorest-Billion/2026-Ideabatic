@@ -84,7 +84,7 @@ Although the improvement was significant, substantial temperature differences re
 
 The inserts were subsequently incorporated into the combination tests alongside other modifications, including improved thermal contact and radial planes intended to reduce convective air movement. These combined interventions produced greater improvements than the insert alone, suggesting that multiple heat transfer mechanisms contribute to the observed temperature gradients. This finding indicates that future design improvements should consider the combined effects of ice pack geometry, thermal contact and convection rather than treating each factor independently.
 
-The in-depth data and analysis of the remaining tests are in the “Test Results & Analysis” document attached.
+The in-depth data and analysis of the remaining tests are in the [Test Results & Analysis](final/Test results & analysis.md) document attached.
 
 # Conclusions
 
