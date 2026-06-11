@@ -200,6 +200,8 @@ cold air generated from the ice from falling quickly to the bottom of the chambe
 meaningful quantification of this change requires more extensive testing and analysis, but it 
 provided enough information for the team to progress.  
 
+![image9](image9.png)
+
 ##### Force the flow (Forced Convection) 
 By using a small fan, the air within the vaccine chamber can be forcefully convected and kept 
 more uniform. This would keep all the positions of the vaccine in air of the same temperature, 
