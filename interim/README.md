@@ -1,2 +1,2 @@
-# Placeholder for interim report
+Interim Report content included in this folder
 
