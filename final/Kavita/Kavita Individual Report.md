@@ -1,10 +1,9 @@
-# Technology for the Poorest Billion
-## Ideabatic – Uniform cooling team
-## Kavita Sivaraman 
-## Working with Kerry Dai & Karen Miyazaki
+# Technology for the Poorest Billion: Ideabatic – Uniform cooling team
+## Kavita Sivaraman
+**Working with Kerry Dai & Karen Miyazaki**
 
 ## Report Overview
-This report provides an overview of the whole project and the key issue of non-uniform cooling issue within the vaccine cooler. It describes the design and  implementation of the electrical test setup, which was my main individual contribution. In addition, all experimental testing and data analysis were completed collaboratively as a team. Therefore, this report provides a brief summary of the results and findings, but for further detail, refer to the test results document.
+This report provides an overview of the whole project and the key issue of non-uniform cooling within the vaccine cooler. It describes the design and  implementation of the electrical test setup, which was my main individual contribution. In addition, all experimental testing and data analysis was completed collaboratively as a team. Therefore, this report provides a brief summary of the results and findings, but for further detail, refer to the test results document.
 
 ## Intro
 Vaccines face the logistical challenge of needing to remain within a narrow temperature range  of 2-8°C to remain effective. This presents a challenge for delivering vaccines to remote villages in countries such as Cameroon, where access to reliable electricity is limited. The SMILE project has been developed to address this challenge of maintaining vaccine efficacy for ‘last mile’ vaccine delivery. 
