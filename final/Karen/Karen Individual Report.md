@@ -34,7 +34,7 @@ I designed the inserts to divide the bottle into multiple chambers while maintai
 
 The first design was selected due to its simplicity and reliability. In this set-up, the two planes have slots that physically interlock, allowing the print to be done as two flat planes instead of a thin 3D part. Two planes were sufficient to demonstrate results, while remaining practical to insert into the bottle. As shown in the diagram below, the larger air gap gets segmented into four chambers, so the upper chamber has less insulation from the air in this set up than without the inserts.
 
-<img src="bottle_segmentation.png" width="200"> <img src="segmentation_diagram.png" width="400"> <img src="glued_bottle.png" width="200">
+<img src="segmentation_diagram.png" width="400"> 
 
 However, this design relies on the 3D print being flexible enough to push through the neck of the bottle. Therefore, an initial prototype was produced to verify fit and assembly within the bottle. The inserts were manufactured using PLA through 3D printing. Printing parameters of 100% outer walls and 15% infill provided adequate stiffness while retaining a small degree of flexibility during assembly. This is shown below:
 
@@ -48,7 +48,9 @@ Throughout the design process, several practical limitations of this prototyped 
 
 ## Assembly
 
-A significant challenge encountered was producing a watertight and airtight seal within the bottle. Hot glue was selected as a low-cost and readily available sealing method for prototype testing. Kerry was responsible for hot gluing the insert into the bottle and additional hot glue was applied around the interfaces to minimise leakage. I assisted with this process at times.
+A significant challenge encountered was producing a watertight and airtight seal within the bottle. Hot glue was selected as a low-cost and readily available sealing method for prototype testing. Kerry was responsible for hot gluing the insert into the bottle and additional hot glue was applied around the interfaces to minimise leakage. I assisted with this process at times. The assembly is shown below:
+
+<img src="bottle_segmentation.png" width="200"> <img src="glued_bottle.png" width="200">
 
 Following assembly, the bottle underwent a freeze-thaw cycle prior to experimental testing. The insert and adhesive joints remained structurally sound throughout this process and the final assembly was found to be almost perfectly watertight and airtight.
 
