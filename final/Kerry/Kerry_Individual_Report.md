@@ -8,6 +8,7 @@ temperature requirements for the vaccines, and cooler boxes must be used for the
 the delivery of the vaccines to remote locations. IDEABATIC created the SMILE vaccine cooler 
 box, a cooling system designed to keep vaccines cold during transportation. The SMILE Go is a 
 prototype designed to be a smaller, lighter, and easier to carry version of the SMILE.  
+
 ![imagea](imagea.png)
  
 In previous testing, it was discovered that there is present an asymmetric cooling effect in the 
@@ -41,6 +42,7 @@ Arduino was connected to a PC in the Dyson Centre, which is constantly powered a
 the tests running overnight if needed.  
 
 ![imageb](imageb.png)
+
 Credit to Kavita for putting this series of images together. 
 
 The vaccine carrier/cooler box was then placed in a waterproof tub, to ensure any faults in the 
@@ -77,6 +79,7 @@ has a different density and buoyancy. Thus, by more evenly distributing the phas
 bottle, the asymmetry could be mitigated. 
 
 ![imagec](imagec.png)
+
 Credit to Karen for making this cooler insert diagram. 
 
 The cooler inserts were manufactured from 3D-printed PLA due to its low cost, quick 
@@ -99,6 +102,7 @@ As part of the insert tests, a watertight and airtight seal was required between
 PLA inserts and HDPE bottle/ice pack. The team delegated this part of the work to me.  
 
 ![imaged](imaged.png)
+
 Prior to any testing being done, while the electronics were being put together by Kavita, a sample 
 insert was printed (credit to Karen for all 3D printing). This was used by me to trial a hot gluing 
 sample. It was a very important step in the insert testing process as it allowed the team to get a 
