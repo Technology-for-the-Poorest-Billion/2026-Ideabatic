@@ -267,7 +267,7 @@ ambient readings nearer 20C. Thus, a second control test was conducted at around
 comparisons.  
 
 For specific test results and analysis, please refer to the **Test Results and Analysis** document attached in 
-the Git repository (in the "final" folder). 
+the Git repository (in the "final" folder - 2026-Ideabatic/final/Test results & analysis.md). 
 
 To note some interesting observations made from the **Test Results and Analysis** document: 
 - For most tests, the temperatures within the vaccine carrier seemed to plateau to a consistent value after a few hours (5-7) once the initial transient cooling dip passed. This is why some tests were run for shorter periods of time (as well as giving the team much needed time to run further tests). It is noted that the ice pack was frozen in the materials laboratory freezer in the Engineering Department, for which the temperature is not known – thus, the initial transient effects that cause the sensors to dip to a very cool temperature may be attributed to the ice pack being colder than in Kitty’s testing.
