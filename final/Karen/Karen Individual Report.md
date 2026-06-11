@@ -66,8 +66,6 @@ I identified PETG as a more suitable material for future 3D printed prototypes, 
 
 Alternative sealing methods were also considered. Epoxy coating could improve the waterproofing of printed PLA parts, but its long curing time made it unsuitable for our project timescale. I identified silicone sealant to be more appropriate for long-term sealing because it remains flexible at low temperatures and can better accommodate differential thermal expansion between the bottle and the insert. However, its curing time is also much longer than hot glue, so it was less convenient for rapid prototyping.
 
-Overall, the insert design was suitable as a proof-of-concept prototype, but not as a final production solution. For small-scale use, improved 3D printed inserts using PETG and a more durable sealant could be investigated. For larger-scale manufacture, a more robust approach would be to eliminate the separate inserts and adhesive joints entirely by producing a bottle with integrated internal chambers, for example through extrusion blow moulding or stretch blow moulding. This would improve durability, watertightness and reliability over the intended service life of the cooler.
-
 # Testing
 
 The electronic set up to obtain data from four temperature sensors was made by Kavita, where two probes measured the upper compartments and two measured the lower compartments. A control test was conducted with the original set up to serve as a baseline for our tests.
@@ -94,7 +92,9 @@ However, the inserts did not eliminate the asymmetry entirely. Subsequent testin
 
 The project also highlighted the importance of considering manufacturability alongside thermal performance. Although PLA inserts and hot glue seals were suitable for rapid prototyping, several limitations were identified regarding porosity, moisture absorption, durability and sealing reliability. These factors are unlikely to significantly affect short-term testing but would present challenges for long-term deployment.
 
-Overall, the insert programme provided valuable evidence that modifications to the ice pack can improve cooling uniformity and contribute to a broader understanding of the mechanisms responsible for non-uniform cooling within the SMILE GO cooler.
+Overall, the insert design was suitable as a proof-of-concept prototype, but not as a final production solution. For small-scale use, improved 3D printed inserts using PETG and a more durable sealant could be investigated. For larger-scale manufacture, a more robust approach would be to eliminate the separate inserts and adhesive joints entirely by producing a bottle with integrated internal chambers, for example through extrusion blow moulding or stretch blow moulding. This would improve durability, watertightness and reliability over the intended service life of the cooler.
+
+The insert programme provided valuable evidence that modifications to the ice pack can improve cooling uniformity and contribute to a broader understanding of the mechanisms responsible for non-uniform cooling within the SMILE GO cooler.
 
 # Recommendations
 
