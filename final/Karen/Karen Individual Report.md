@@ -14,7 +14,7 @@ Kitty Liao, Oliver Griffiths
 
 # My Contribution
 
-This report documents my contribution to the SMILE GO project, which investigated the causes of non-uniform cooling within the vaccine carrier and explored potential methods to reduce temperature gradients. My primary responsibility was the design, manufacture and evaluation of bottle inserts for the central ice pack. As a team, we all contributed to experimental setup, test execution and analysis throughout the project. Ideas for tests were discussed as a team and set up together upon reaching an agreement.
+This report documents my contribution to the SMILE GO project, which investigated the causes of non-uniform cooling within the vaccine carrier and explored potential methods to reduce the temperature differences within the cooler carousel. My primary responsibility was the design, manufacture and evaluation of bottle inserts for the central ice pack. As a team, we all contributed to experimental setup, test execution and analysis throughout the project. Ideas for tests were discussed as a team and set up together upon reaching an agreement.
 
 # Project Overview
 
