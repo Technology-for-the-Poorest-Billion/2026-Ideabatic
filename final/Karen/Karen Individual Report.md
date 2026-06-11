@@ -40,9 +40,12 @@ The first design was selected due to its simplicity and reliability. In this set
 
 However, this design relies on the 3D print being flexible enough to push through the neck of the bottle. Therefore, an initial prototype was produced to verify fit and assembly within the bottle. The inserts were manufactured using PLA through 3D printing. Printing parameters of 100% outer walls and 15% infill provided adequate stiffness while retaining a small degree of flexibility during assembly. This is shown below:
 
-![Initial prototype insert](prototype_insert.jpg)
+![Initial prototype insert](prototype_insert.png)
 
 Early testing demonstrated that attaching the insert directly to the bottle lid was impractical due to difficulties associated with the screw closure mechanism. As a result, the design was modified to incorporate a separate printed top section. Two further iterations were completed to refine the dimensions and ensure reliable closure of the bottle. The final design successfully allowed the bottle lid to close while maintaining the required internal geometry.
+
+![Initial prototype insert](insert_1.png)
+![Initial prototype insert](insert_2.png)
 
 Throughout the design process, several practical limitations of this prototyped design became apparent, particularly regarding print porosity and sealing.
 
